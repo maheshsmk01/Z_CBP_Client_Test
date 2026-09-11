@@ -112,6 +112,7 @@ CLASS lhc_zpr_ud_display IMPLEMENTATION.
 
       IF ls_failed_1-inspectionlot[] IS INITIAL.
 * Add code for PO Update
+* Update Indicator
         lv_price_upd = abap_true.
       ELSE.
         lv_message = 'Error when posting Usage Decision'.
