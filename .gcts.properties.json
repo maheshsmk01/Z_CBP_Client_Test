@@ -1,0 +1,12 @@
+{
+  "name": "maheshsmk01-z_cbp_client_test",
+  "version": "1.0.0",
+  "description": "maheshsmk01-Z_CBP_Client_Test",
+  "repositoryLayout": {
+    "format": "json",
+    "formatVersion": "6",
+    "keepClient": "false",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true"
+  }
+}
